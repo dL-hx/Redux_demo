@@ -8,3 +8,11 @@
 - https://www.fullstackreact.com/30-days-of-react/day-19/
 - 在线演示
 - https://codesandbox.io/s/j3w827wo85
+
+## 使用方法
+- 安装相关的库
+npm install
+
+- 然后
+npm start
+
